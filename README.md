@@ -1,9 +1,9 @@
-💳 Modern Wallet App
+# 💳 Modern Wallet App
 
 A Flutter-based modern wallet UI showcasing credit card details, rewards, transaction history, and a brand selection bottom sheet.
 This project demonstrates clean UI design, modular file structure, and reusable widgets.
 
-✨ Features
+## ✨ Features
 
 - 📱 Modern wallet dashboard UI
 
@@ -19,7 +19,7 @@ This project demonstrates clean UI design, modular file structure, and reusable 
 
 - 🤖 Demonstrates AI-assisted development (see below)
 
-- 🛠 AI Skills Demonstration
+ ## 🛠 AI Skills Demonstration
 
 This project highlights how AI tools were used to enhance development efficiency:
 
@@ -51,10 +51,10 @@ Documentation & README Generation
 
 Used AI to generate detailed README, folder structure, and instructions for easy GitHub setup.
 
-Concrete Example:
+**Concrete Example:**
 Before AI assistance, the project had all functionality in main.dart, making it hard to maintain. Using AI, the code was split into modular files, reducing complexity by ~60% and enabling faster future enhancements.
 
-📂 Project Structure
+## 📂 Project Structure
 
 ```bash
 lib/
@@ -92,7 +92,7 @@ flutter pub get
 flutter run
 ```
 
-📦 Dependencies
+## 📦 Dependencies
 
 - google_fonts
 
@@ -100,10 +100,10 @@ flutter run
 
 - font_awesome_flutter
 
-🛠️ Customization
+## 🛠️ Customization
 
-Add new brands in utils/icons.dart.
+- Add new brands in utils/icons.dart.
 
-Update transactions in modern_wallet_screen.dart.
+- Update transactions in modern_wallet_screen.dart.
 
-Replace reward messages with your logic.
+- Replace reward messages with your logic.
