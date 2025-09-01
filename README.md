@@ -41,13 +41,13 @@ Used AI (ChatGPT) to split the monolithic main.dart file into multiple modules:
 
 Result: Cleaner structure, easier maintenance, and improved readability.
 
-Widget Creation & UI Tweaks
+**Widget Creation & UI Tweaks**
 
 AI helped create reusable widgets like StatCard and TransactionTile.
 
 Assisted in adding animations and styling for a professional UI/UX.
 
-Documentation & README Generation
+**Documentation & README Generation**
 
 Used AI to generate detailed README, folder structure, and instructions for easy GitHub setup.
 
@@ -75,7 +75,8 @@ lib/
     └── icons.dart
 ```
 
-🚀 Getting Started
+## 🚀 Getting Started
+
 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/OmkarNarwade/Modern-Wallet-App.git
