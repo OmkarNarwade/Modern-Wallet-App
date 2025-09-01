@@ -25,19 +25,19 @@ This project highlights how AI tools were used to enhance development efficiency
 
 **1.Code Refactoring & Modularization**
 
--Used AI (ChatGPT) to split the monolithic main.dart file into multiple modules:
+- Used AI (ChatGPT) to split the monolithic main.dart file into multiple modules:
 
- - screens/modern_wallet_screen.dart
+  - screens/modern_wallet_screen.dart
 
- - widgets/stat_card.dart
+  - widgets/stat_card.dart
 
- - widgets/transaction_tile.dart
+  - widgets/transaction_tile.dart
 
- - widgets/brand_bottom_sheet.dart
+  - widgets/brand_bottom_sheet.dart
 
- - models/transaction.dart
+  - models/transaction.dart
 
- - utils/icons.dart
+  - utils/icons.dart
 
 - Result: Cleaner structure, easier maintenance, and improved readability.
 
