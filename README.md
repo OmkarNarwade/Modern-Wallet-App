@@ -23,33 +23,33 @@ This project demonstrates clean UI design, modular file structure, and reusable 
 
 This project highlights how AI tools were used to enhance development efficiency:
 
-Code Refactoring & Modularization
+**1.Code Refactoring & Modularization**
 
-Used AI (ChatGPT) to split the monolithic main.dart file into multiple modules:
+-Used AI (ChatGPT) to split the monolithic main.dart file into multiple modules:
 
-- screens/modern_wallet_screen.dart
+ - screens/modern_wallet_screen.dart
 
-- widgets/stat_card.dart
+ - widgets/stat_card.dart
 
-- widgets/transaction_tile.dart
+ - widgets/transaction_tile.dart
 
-- widgets/brand_bottom_sheet.dart
+ - widgets/brand_bottom_sheet.dart
 
-- models/transaction.dart
+ - models/transaction.dart
 
-- utils/icons.dart
+ - utils/icons.dart
 
-Result: Cleaner structure, easier maintenance, and improved readability.
+- Result: Cleaner structure, easier maintenance, and improved readability.
 
-**Widget Creation & UI Tweaks**
+**2.Widget Creation & UI Tweaks**
 
-AI helped create reusable widgets like StatCard and TransactionTile.
+- AI helped create reusable widgets like StatCard and TransactionTile.
 
-Assisted in adding animations and styling for a professional UI/UX.
+- Assisted in adding animations and styling for a professional UI/UX.
 
-**Documentation & README Generation**
+**3.Documentation & README Generation**
 
-Used AI to generate detailed README, folder structure, and instructions for easy GitHub setup.
+- Used AI to generate detailed README, folder structure, and instructions for easy GitHub setup.
 
 **Concrete Example:**
 Before AI assistance, the project had all functionality in main.dart, making it hard to maintain. Using AI, the code was split into modular files, reducing complexity by ~60% and enabling faster future enhancements.
