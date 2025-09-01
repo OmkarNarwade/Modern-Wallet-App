@@ -1,0 +1,25 @@
+name: flutter_application_rewardapp
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  confetti: ^0.8.0
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^10.9.1
+  glassmorphism: ^3.0.0
+  google_fonts: ^6.3.0
+  intl: ^0.20.2
+  u_credit_card: ^1.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
